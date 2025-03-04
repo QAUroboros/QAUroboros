@@ -7,9 +7,13 @@
 
 <div align="center">
   <img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" alt="PyCharm" heigth="40" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Pytest_logo.png" alt="PyTest" heigth="40" width="40"/>
-  <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" alt="GitLab" heigth="40" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/BrowserStack_Logo.png" alt="BrowserStack" heigth="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="Python" heigth="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg" alt="Pytest" heigth="40" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" alt="Selenium" heigth="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" alt="Git" heigth="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg" alt="GitLab" heigth="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" alt="GitHub" heigth="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/browserstack/browserstack-original-wordmark.svg" alt="BrowserStack" heigth="40" width="40"/>
 </div>
 
 ## Обо мне
