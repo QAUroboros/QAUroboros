@@ -22,5 +22,5 @@
 - **Linkedin:**[Linkedin](https://www.linkedin.com/in/krivoshein-artem/)
 - **Email:** [krivo6ein@gmai.com](krivo6ein@gmai.com)
 - **GitHub:** [GitHub](https://github.com/QAUroboros)
-- **CV:** [hh.kz](https://hh.kz/resume/1193a03eff08968eb80039ed1f775976333743)
+- **CV:** [hh.kz](https://hh.kz/resume/1193a03eff08968eb80039ed1f775976333743)[**Хабр Карьера**](https://career.habr.com/artemkqa)
 
