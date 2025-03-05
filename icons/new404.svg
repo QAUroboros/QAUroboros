@@ -1,0 +1,60 @@
+<svg width="600" height="400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Градиент для фона -->
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ff5f6d; stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ffc371; stop-opacity:1" />
+    </linearGradient>
+    <!-- Фильтр для свечения -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Фон -->
+  <rect width="600" height="400" fill="url(#bgGradient)" />
+
+  <!-- Текст ошибки с эффектом свечения -->
+  <g filter="url(#glow)">
+    <text x="300" y="150" text-anchor="middle" font-size="100" font-family="Arial, sans-serif" fill="#ffffff" font-weight="bold">
+      404
+    </text>
+  </g>
+
+  <!-- Наложение глитч-эффекта -->
+  <text x="300" y="150" text-anchor="middle" font-size="100" font-family="Arial, sans-serif" fill="red" opacity="0.3">
+    404
+  </text>
+  <text x="300" y="150" text-anchor="middle" font-size="100" font-family="Arial, sans-serif" fill="blue" opacity="0.3">
+    404
+  </text>
+
+  <!-- Маленький робот, символизирующий «поломку» -->
+  <g>
+    <!-- Голова робота -->
+    <rect x="265" y="60" width="70" height="50" fill="#ffffff" stroke="#000" stroke-width="3" rx="8" ry="8"/>
+    <!-- Глаза -->
+    <circle cx="285" cy="85" r="5" fill="#000"/>
+    <circle cx="315" cy="85" r="5" fill="#000"/>
+    <!-- Антенна -->
+    <line x1="300" y1="60" x2="300" y2="40" stroke="#000" stroke-width="3"/>
+    <circle cx="300" cy="35" r="5" fill="#000"/>
+    <!-- Тело робота -->
+    <rect x="250" y="120" width="100" height="100" fill="#ffffff" stroke="#000" stroke-width="3" rx="10" ry="10"/>
+    <!-- Руки -->
+    <rect x="230" y="140" width="20" height="40" fill="#ffffff" stroke="#000" stroke-width="3" rx="5" ry="5"/>
+    <rect x="350" y="140" width="20" height="40" fill="#ffffff" stroke="#000" stroke-width="3" rx="5" ry="5"/>
+    <!-- Ноги -->
+    <rect x="265" y="230" width="20" height="30" fill="#ffffff" stroke="#000" stroke-width="3" rx="5" ry="5"/>
+    <rect x="315" y="230" width="20" height="30" fill="#ffffff" stroke="#000" stroke-width="3" rx="5" ry="5"/>
+  </g>
+
+  <!-- Подпись -->
+  <text x="300" y="370" text-anchor="middle" font-size="24" font-family="Arial, sans-serif" fill="#ffffff">
+    Ой, страница ушла в отпуск!
+  </text>
+</svg>

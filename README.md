@@ -1,24 +1,24 @@
 # Привет, я Артём 👋
 
-Я тестировщик с солидным опытом ручного тестирования, который активно осваивает мир автоматизации.  
+Я, QA engineer с солидным опытом ручного тестирования, который активно осваивает мир автоматизации.  
 За годы работы я накопил глубокое понимание процессов разработки, что позволяет мне качественно находить и документировать дефекты.  
 Сейчас я делаю акцент на создании надежных автотестов для веб-приложений, и мобильных приложений на Android и iOS, а также имею базовый опыт нагрузочного тестирования через JMeter.
 
 ## Мой технологический стек
 
 <div align="center">
-  <img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" alt="PyCharm" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="Python" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" alt="Selenium" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg" alt="Pytest" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="Postgresql" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" alt="Git" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg" alt="GitLab" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" alt="GitHub" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/browserstack/browserstack-original-wordmark.svg" alt="BrowserStack" height="40" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Appium-logo.svg/200px-Appium-logo.svg.png" alt="Appium" height="40" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Apache_JMeter_logo.svg/200px-Apache_JMeter_logo.svg.png" alt="JMeter" height="40" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Grafana_logo.svg/200px-Grafana_logo.svg.png" alt="Grafana" height="40" width="40"/>
+  <img src="icons/pycharm.svg" alt="PyCharm" height="40" width="40"/>
+  <img src="icons/python.svg" alt="Python" height="40" width="40"/>
+  <img src="icons/selenium.svg" alt="Selenium" height="40" width="40"/>
+  <img src="icons/pytest.svg" alt="Pytest" height="40" width="40"/>
+  <img src="icons/postgresql.svg" alt="Postgresql" height="40" width="40"/>
+  <img src="icons/git.svg" alt="Git" height="40" width="40"/>
+  <img src="icons/gitlab.svg" alt="GitLab" height="40" width="40"/>
+  <img src="icons/github.svg" alt="GitHub" height="40" width="40"/>
+  <img src="icons/browserstack.svg" alt="BrowserStack" height="40" width="40"/>
+  <img src="icons/appium.svg" alt="Appium" height="40" width="40"/>
+  <img src="icons/jmeter.svg" alt="JMeter" height="40" width="40"/>
+  <img src="icons/grafana.svg" alt="Grafana" height="40" width="40"/>
 </div>
 
 ## Обо мне
@@ -32,8 +32,9 @@
   
 
 ## Будущие статьи на Хабре
+![Будущие статьи - ошибка 404](icons/new404.svg)
 
-*Ошибка 404: Контент не найден... или это временно?*  
+ 
 Скоро здесь появятся свежие заметки и статьи о мире тестирования, автоматизации и не только. Следите за обновлениями — мой блог на Хабре в стадии разработки, и впереди много интересного!
 
 
