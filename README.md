@@ -41,5 +41,5 @@
 ## Контакты
 
 - **LinkedIn:** [krivoshein-artem](https://www.linkedin.com/in/krivoshein-artem/)
-- **Email:** [krivo6ein@gmai.com](mailto:krivo6ein@gmail.com)
+- **Email:** [krivo6ein@gmail.com](mailto:krivo6ein@gmail.com)
 - **Резюме:** [hh.kz](https://hh.kz/resume/1193a03eff08968eb80039ed1f775976333743) | [Хабр Карьера](https://career.habr.com/artemkqa)
